@@ -10,7 +10,7 @@ class CaixaDAgua(
     val capacidade: Double?,
     val largura: Double,
     val altura: Double,
-    val profundidade: Double,
+    val profundidade: Int,
 
 
     )//Aqui vai todos os atributos da classe
